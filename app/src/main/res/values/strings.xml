@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">YetAnotherMapActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="trephubdescription">Trephub is the world\'s most kickass hackerspace.  All your base are belong to TrepHub.  Shoutz to the Coders, Hackers and Founders Crew!
+    </string>
+
+    <string name="spacecenterdescription">
+        The John F. Kennedy Space Center (KSC) is one of ten National Aeronautics
+        and Space Administration field centers, and is NASA\'s Center of Excellence
+        for launch and payload processing systems.  Located on the east coast of Florida,
+        KSC is adjacent to Cape Canaveral Air Force Station (CCAFS). The management of the two
+        entities work very closely together, share resources, and even own facilities on each other\'s property.
+    </string>
+
+    <string name="apollo1description">
+        Apollo 1 (initially designated AS-204) was the first manned mission of the U.S. Apollo
+        manned lunar landing program.  The planned low Earth orbital test of the Apollo Command/Service Module
+        never made its target launch date of February 21, 1967, because a cabin fire during
+        a launch rehearsal test on January 27 at Cape Kennedy Air Force Station Launch Complex 34
+        killed all three crew members—Command Pilot Virgil I. "Gus" Grissom, Senior Pilot
+        Edward H. White II, and Pilot Roger B. Chaffee—and destroyed the Command Module (CM).
+        The name Apollo 1, chosen by the crew, was officially retired by NASA in commemoration of them on April 24, 1967.
+    </string>
+
+    <string name="playhousedescription">
+        The Historic Cocoa Village Playhouse, Inc. provides affordable community theatre and promotes lifelong education in the performing arts for Brevard County residents and visitors.
+        With its family of local performers and technical staff, the Playhouse’s full line up of Broadway Musicals have earned it the nickname “Broadway on Brevard”.
+    </string>
+    <string name="henegardescription">
+        he Henegar Center was born from the vision of a dedicated group of community leaders. As the deterioration of two historical buildings in downtown Melbourne became increasingly apparent, a small group formed the Brevard Regional Arts Group (BRAG) to revive the treasured landmarks. The buildings, formerly public schools, were donated by the Brevard County School System to BRAG for transformation into cultural arts facilities. The Henegar Center for the Arts was thus born, named for Ruth Henegar, beloved principal for whom the original middle school was named in 1963.
+
+BRAG raised over $2.5 million in cash and services to renovate the main building and the final renovations were completed in 1993.
+
+At the heart of the Center is a 493 seat proscenium-style theater designed by a Tony Award-winning Broadway set designer. The stage features a main stage curtain from the original Broadway production of The King and I, with state-of-the-art lighting and sound systems for the highest quality productions.
+    </string>
+
+    <string name="poncedeleondescription">
+        he park commemorates the epic 1513 voyage of Juan Ponce de León and his landing near Melbourne Beach, Florida on April 2. Juan Ponce de León\'s 7,980 nautical mile exploration into unknown waters set the stage for the subsequent European colonization of the USA. But that significant historical fact has been lost in the categorically untrue reports by past historians that he was a vain old conquistador looking for a fountain of youth.
+    </string>
+    <string name="lighthousedescription">The Cape Canaveral Light is a historic lighthouse on the east coast of the U.S. state of Florida. The light was established in 1848 to warn ships of the dangerous shoals that lie off its coast. It is located inside the Cape Canaveral Air Force Station and managed by the 45th Space Wing of the U.S. Air Force with the assistance of the Cape Canaveral Lighthouse Foundation. It is the only fully operational lighthouse that is owned by the United States Air Force.</string>
+    <string name="stlukeschurchdescription">St. Luke\'s journey of more than a century brings us to where we are today – a loving and growing family of faithful Christians.
+
+In the 1870s, our founding families, the LaRoche, Porcher and Sams, settled in Courtenay, a community in Merritt Island. They were Episcopalians from the Charleston and John\'s Island area of South Carolina. They worshipped together using the Book of Common Prayer in the home of John Sams.</string>
+    <string name="courthousedescription">The Old Brevard County Courthouse, renamed in 2006 as the Vassar B. Carlton Historic Titusville Courthouse, is an historic courthouse building located at 506 South Palm Avenue in Titusville, Florida. Designed in the Classical Revival style, it was built in 1912 by Lightman, McDonald and Company to serve as Brevard County\'s first courthouse building erected in Titusville.</string>
+    <string name="porcherhousedescription">There is nowhere more romantic and elegant than the Porcher House for such a special occasion as your wedding and/or wedding reception. The ambiance and atmosphere offer a setting so very special that there is no place to compare.
+
+In the heart of Cocoa’s established Historic District, the Porcher House is open to the community to enjoy as a special place for meetings, weddings, parties, luncheons, afternoon teas and card parties.</string>
+
+</resources>
