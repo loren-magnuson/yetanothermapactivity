@@ -146,7 +146,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         Marker ponceStatueMarker = mMap.addMarker(new MarkerOptions()
                 .position(ponceStatueCoords)
                 .title("Ponce de Leon Statue")
-                .snippet("Commemorating of Ponce De Leon's first landing in Florida."));
+                .snippet("Commemorating Ponce De Leon's first landing in Florida."));
 
         Marker lighthouseMarker = mMap.addMarker(new MarkerOptions()
                 .position(lighthouseCoords)
